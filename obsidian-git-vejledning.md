@@ -75,21 +75,9 @@ Du bør se: `Hi BRUGERNAVN! You've successfully authenticated.`
 
 ## Del 4: Installation af Obsidian
 
-### Linux
+### Ubuntu
 
-Download AppImage fra [obsidian.md](https://obsidian.md):
-
-```bash
-chmod +x Obsidian-*.AppImage
-./Obsidian-*.AppImage
-```
-
-Alternativt via Snap:
-
-```bash
-sudo snap install obsidian --classic
-```
-
+Installer fra App Center
 ### Windows
 
 Download installationsfilen fra [obsidian.md](https://obsidian.md) og kør den. Følg installationsguiden.
