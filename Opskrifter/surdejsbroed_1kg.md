@@ -14,7 +14,7 @@
 
 ## Fremgangsmåde
 
-1. **Autolyse** — Bland mel og vand (25-30 grader varmt.) groft. Hvil tildækket i 30–60 min.
+1. **Autolyse** — Bland mel og vand (25-30 grader varmt.) groft. Lad hvile tildækket i 30–60 min.
 2. **Tilsæt surdej og salt** — Fold og klem godt igennem til alt er blandet.
 3. **Bulk hævning** — 4–5 timer ved stuetemperatur. De første 2 timer: stræk og fold 4 gange med 30 min mellemrum.
 4. **Formning** — Vend dejen ud, form til stram kugle, læg med samling opad i meldrysset hævekurv.
